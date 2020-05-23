@@ -23,10 +23,6 @@ The models studied were
 
 <!DOCTYPE html>
 <html>
-
-   <head>
-      <title>HTML Table Cellpadding</title>
-   </head>
 	
    <body>
       <table border = "1" cellpadding = "5" cellspacing = "5">
