@@ -2,7 +2,7 @@
 
 This notebook is a simple Keras based regression model where four different models with different parameters and number of hidden were compared after training. 
 
-The models are trained to predict to strength of various type of concentre based on various information from the feature sets.
+The models are trained to predict to strength of various type of concrete based on various information from the feature sets.
 
 The evaluation metrics pertaining to each were summarised at the end of the notebook.
 
