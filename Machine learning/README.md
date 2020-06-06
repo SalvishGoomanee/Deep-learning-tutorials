@@ -11,7 +11,7 @@ In this repository, I regurlarly upload some machine learning tasks on classific
 
 [Hierarchical clustering in Python](https://github.com/SalvishGoomanee912/Deep-learning-projects/blob/master/Machine%20learning/ML8_Hierarchical%20clustering.ipynb)
 
-- This notebook exposes the idea behind another unsupervised clustering algorithm, namely **Hierarchical clustering**.
+- This notebook exposes the idea behind another unsupervised clustering algorithm, namely **hierarchical clustering**.
 - The algorthim is implemented on a randomly generated dataset and on a vehicle dataset.
 - The **agglomerative clustering algorithm** is studied in both tasks.
 
