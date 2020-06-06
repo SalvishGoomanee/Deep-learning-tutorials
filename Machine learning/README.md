@@ -1,4 +1,4 @@
-## Machine learning exercises and projects
+## Supervised and unsupervised ML tasks in Python
 
 In this repository, I regurlarly upload some machine learning tasks on classification and regression.
 
@@ -8,3 +8,7 @@ In this repository, I regurlarly upload some machine learning tasks on classific
 
 - This notebook implements a K-Means algorithm for classification pertaining to a randomly generated dataset.
 - A K-Means algorithm is also implemented for analysing customer segmentation.
+
+[Hierarchical clustering in Python](https://github.com/SalvishGoomanee912/Deep-learning-projects/blob/master/Machine%20learning/ML8_Hierarchical%20clustering.ipynb)
+
+- 
