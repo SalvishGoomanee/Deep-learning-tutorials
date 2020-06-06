@@ -21,3 +21,7 @@ In this repository, I regurlarly upload some machine learning tasks on classific
 - The K-Nearest Neighbour (KNN), the Decision Tree (DT), the Support Vector Machine (SVM), the Logistic Regression (LR) are implemented.
 - Their respective performance pertaining to the task in question in reported at the end of the notebook.
 - Note that an important portion of the code corresponds to analysing the data first which in itself is very useful.
+
+[Classification and regression in Python with ApacheSpark](https://github.com/SalvishGoomanee912/Deep-learning-projects/blob/master/Machine%20learning/P7_Classification%20and%20regression%20with%20%20ApacheSpark%20.ipynb)
+
+-
