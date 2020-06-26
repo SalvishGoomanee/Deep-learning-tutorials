@@ -1,4 +1,4 @@
-## Deep learning exercises and projects
+## Exercises and projects on various supervised/unsupervised ML tasks.
 
 In this repository I upload various deep learning algorithms. 
 
