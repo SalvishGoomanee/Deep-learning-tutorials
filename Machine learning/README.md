@@ -24,4 +24,4 @@ In this repository, I regurlarly upload some machine learning tasks on classific
 
 [Classification and regression in Python with ApacheSpark](https://github.com/SalvishGoomanee912/Deep-learning-projects/blob/master/Machine%20learning/P7_Classification%20and%20regression%20with%20%20ApacheSpark%20.ipynb)
 
--
+
